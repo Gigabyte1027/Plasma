@@ -1,0 +1,13 @@
+body {
+	font-family: Arial, sans-serif;
+}
+.header {
+	background: -ms-linear-gradient(top, rgba(127,166,191,1) 0%, rgba(57,117,156,1) 50%, rgba(4,72,117,1) 51%, rgba(74,144,170,1) 100%);
+	position: absolute;
+	height: 32px;
+	top: 0;
+	left: 5px;
+	right: 5px;
+	box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,0.5), 0px 5px 5px 0px rgba(0,0,0,0.5);
+	border-radius: 5px;
+}	
